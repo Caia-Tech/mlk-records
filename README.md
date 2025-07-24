@@ -66,13 +66,13 @@ All materials appear to bear "APPROVED FOR RELEASE" markings indicating prior de
 Basic search using standard command-line tools:
 ```bash
 # Search for specific terms
-grep -i "keyword" MLK_ALL_DOCUMENTS_OCRMYPDF_SAFE.txt
+grep -i "keyword" mlk-records.txt
 
 # Case-sensitive search with line numbers
-grep -n "exact phrase" MLK_ALL_DOCUMENTS_OCRMYPDF_SAFE.txt
+grep -n "exact phrase" mlk-records.txt
 
 # Count occurrences
-grep -c "term" MLK_ALL_DOCUMENTS_OCRMYPDF_SAFE.txt
+grep -c "term" mlk-records.txt
 ```
 
 ## Legal and Ethical Notice
